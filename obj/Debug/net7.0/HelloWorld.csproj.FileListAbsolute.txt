@@ -1,0 +1,15 @@
+/Users/briancrews/Library/CloudStorage/Dropbox/Pathways/2023/4 Fall SEP-DEC/CSE310-AppliedProgramming/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/briancrews/Library/CloudStorage/Dropbox/Pathways/2023/4 Fall SEP-DEC/CSE310-AppliedProgramming/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/briancrews/Library/CloudStorage/Dropbox/Pathways/2023/4 Fall SEP-DEC/CSE310-AppliedProgramming/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/briancrews/Library/CloudStorage/Dropbox/Pathways/2023/4 Fall SEP-DEC/CSE310-AppliedProgramming/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/briancrews/Library/CloudStorage/Dropbox/Pathways/2023/4 Fall SEP-DEC/CSE310-AppliedProgramming/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/briancrews/Library/CloudStorage/Dropbox/Pathways/2023/4 Fall SEP-DEC/CSE310-AppliedProgramming/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/briancrews/Library/CloudStorage/Dropbox/Pathways/2023/4 Fall SEP-DEC/CSE310-AppliedProgramming/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/briancrews/Library/CloudStorage/Dropbox/Pathways/2023/4 Fall SEP-DEC/CSE310-AppliedProgramming/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/briancrews/Library/CloudStorage/Dropbox/Pathways/2023/4 Fall SEP-DEC/CSE310-AppliedProgramming/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/briancrews/Library/CloudStorage/Dropbox/Pathways/2023/4 Fall SEP-DEC/CSE310-AppliedProgramming/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/briancrews/Library/CloudStorage/Dropbox/Pathways/2023/4 Fall SEP-DEC/CSE310-AppliedProgramming/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/briancrews/Library/CloudStorage/Dropbox/Pathways/2023/4 Fall SEP-DEC/CSE310-AppliedProgramming/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/briancrews/Library/CloudStorage/Dropbox/Pathways/2023/4 Fall SEP-DEC/CSE310-AppliedProgramming/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/briancrews/Library/CloudStorage/Dropbox/Pathways/2023/4 Fall SEP-DEC/CSE310-AppliedProgramming/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/briancrews/Library/CloudStorage/Dropbox/Pathways/2023/4 Fall SEP-DEC/CSE310-AppliedProgramming/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
