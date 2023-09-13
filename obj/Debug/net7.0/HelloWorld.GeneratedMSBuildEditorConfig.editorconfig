@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HelloWorld
-build_property.ProjectDir = /Users/briancrews/Library/CloudStorage/Dropbox/Pathways/2023/4 Fall SEP-DEC/CSE310-AppliedProgramming/HelloWorld/
+build_property.ProjectDir = /home/brian/Documents/HelloWorld/
